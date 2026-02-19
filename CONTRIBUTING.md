@@ -52,13 +52,13 @@ Thank you for your interest in contributing to **Awesome-React**! We welcome con
 
 - Keep pull requests **small and focused** — one resource or fix per PR is ideal.
 - Write a clear PR description explaining what you're adding and why it belongs.
-- Be respectful and constructive in all interactions. See our [Code of Conduct](#code-of-conduct).
+- Be respectful and constructive in all interactions. See our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
 ## Code of Conduct
 
-By participating in this project, you agree to be respectful and inclusive. We follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
+By participating in this project, you agree to be respectful and inclusive. We follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct. Please read [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
 
 ---
 
