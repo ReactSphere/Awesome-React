@@ -1,8 +1,8 @@
 # Awesome-React 🌟
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/Awesome-React?style=social)](https://github.com/yourusername/Awesome-React/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/Awesome-React)](https://github.com/yourusername/Awesome-React/issues)
-[![License](https://img.shields.io/github/license/yourusername/Awesome-React)](LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ReactSphere/Awesome-React?style=social)](https://github.com/ReactSphere/Awesome-React/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/ReactSphere/Awesome-React)](https://github.com/ReactSphere/Awesome-React/issues)
+[![License](https://img.shields.io/github/license/ReactSphere/Awesome-React)](LICENSE)
 
 A curated list of **React libraries, tools, tutorials, and resources** to help developers build modern applications faster.
 
